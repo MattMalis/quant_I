@@ -1,4 +1,5 @@
 rm(list=ls())
+## this should be on github now
 #### QUESTION 2 ####
 
 ## three types of random variables: 
